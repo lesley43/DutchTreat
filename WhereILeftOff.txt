@@ -1,0 +1,12 @@
+﻿Chapter 7:
+Seeding the database
+
+
+Shortcuts: 
+	get out of suggestion mode (just borders): ctrl + alt + space
+	select blue outline suggestion: tab
+	new file: shift + f2
+	select suggestion: ctrl + space
+	duplicate line below: ctrl + d
+
+to run the program, do 'dotnet run'

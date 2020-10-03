@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Data",
+    "\\Data\\Migrations",
+    "\\Views",
+    "\\Views\\App"
+  ],
+  "SelectedNode": "\\Data\\Migrations\\DutchContextModelSnapshot.cs",
+  "PreviewInSolutionExplorer": false
+}
